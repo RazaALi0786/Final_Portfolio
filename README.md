@@ -24,10 +24,4 @@ A simple and modern personal portfolio built with React.
 
 ## Author
 
-- [Your Name](https://your-website.com)
-
-## License
-
-- MIT License
-
-Feel free to fork and customize to make it your own!
+- [Syed Raza Ali](https://your-website.com)
